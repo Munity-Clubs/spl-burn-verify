@@ -56,7 +56,7 @@ function parsedTx({
   };
 }
 
-describe("@munity/spl-burn-verify", () => {
+describe("@munityclubs/spl-burn-verify", () => {
   it("accepts a Token-2022 burnChecked matching mint, authority, decimals, and amount", () => {
     const result = verifyBurnParsedTransaction({
       tx: parsedTx(),

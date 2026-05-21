@@ -1,4 +1,4 @@
-# @munity/spl-burn-verify
+# @munityclubs/spl-burn-verify
 
 Storage-neutral SPL Token-2022 burn transaction verification helpers.
 
@@ -9,13 +9,13 @@ state.
 ## Install
 
 ```bash
-npm install @munity/spl-burn-verify
+npm install @munityclubs/spl-burn-verify
 ```
 
 ## Usage
 
 ```js
-import { verifyBurnParsedTransaction } from "@munity/spl-burn-verify";
+import { verifyBurnParsedTransaction } from "@munityclubs/spl-burn-verify";
 
 const result = verifyBurnParsedTransaction({
   tx: parsedTransaction,

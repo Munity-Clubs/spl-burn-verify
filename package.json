@@ -1,5 +1,5 @@
 {
-  "name": "@munity/spl-burn-verify",
+  "name": "@munityclubs/spl-burn-verify",
   "version": "0.1.0",
   "description": "Storage-neutral SPL Token-2022 burn transaction verification helpers.",
   "type": "module",
