@@ -1,5 +1,10 @@
 # @munityclubs/spl-burn-verify
 
+[![npm version](https://img.shields.io/npm/v/@munityclubs/spl-burn-verify.svg?style=flat-square)](https://www.npmjs.com/package/@munityclubs/spl-burn-verify)
+[![License: Apache-2.0](https://img.shields.io/npm/l/@munityclubs/spl-burn-verify.svg?style=flat-square)](./LICENSE)
+[![Security Policy](https://img.shields.io/badge/security-policy-blue?style=flat-square)](./SECURITY.md)
+[![Handoff](https://img.shields.io/badge/handoff-doc-green?style=flat-square)](./HANDOFF.md)
+
 Storage-neutral SPL Token-2022 burn transaction verification helpers.
 
 Munity uses this pattern for burn-to-unlock utility flows. The package verifies
